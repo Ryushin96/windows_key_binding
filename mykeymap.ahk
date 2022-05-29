@@ -21,6 +21,7 @@ F13 & Q::Send,#{Tab}
 F13 & Space::Send,+{Space}
 F13 & A::Send,{Home}
 F13 & E::Send,{End}
+F13 & E::Send,{Enter}
 
 ^vkDB::Send,!{Left}
 ^vkDD::Send,!{Right}
